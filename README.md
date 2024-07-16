@@ -1,5 +1,5 @@
 # planner-application
-Desenvolvimento de uma aplicação web para planejamento de viagens
+Desenvolvimento de uma aplicação web para planejamento de viagens. Feito durante o NLW - Jorney da Rocketseat
 ## Ferramentas
 
 - NodeJs
