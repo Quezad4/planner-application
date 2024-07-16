@@ -9,6 +9,7 @@ Desenvolvimento de uma aplicação web para planejamento de viagens. Feito duran
 - Typescript
 - Dayjs
 - Nodemailer
+- Tailwind
 
 ## Aprendizados importantes
 
@@ -16,6 +17,8 @@ Desenvolvimento de uma aplicação web para planejamento de viagens. Feito duran
 - Conexão com envio de emails utilizando Nodemailer
 - Conexão com banco de dados utilizando Prisma
 - Validações utilizando Zod
+- Uso do postman para teste de requisições
+  
 
 ## Como usar
 
